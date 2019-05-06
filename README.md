@@ -23,5 +23,8 @@
 
 赋能八、吃住停配修一套齐全，数字积分兑换福利，哪里都能薅两把，大路卡专享福利羊毛特权！
 
-###### 更多请关注大路卡官方微信公众号
-![大路卡服务](./files/dalukafuwu.jpg)
+###### 了解更多请关注大路卡官方微信公众号
+<img src="./files/dalukafuwu.jpg" width="150px" height="150px;" />
+
+###### 加入大路卡免流联盟，为物流全行业赋能
+<img src="./files/dalukalianmeng.jpg" width="150px" height="150px;" />
